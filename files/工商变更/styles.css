@@ -1,0 +1,145 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(188, 188, 188, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1318px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u754_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:734px;
+}
+#u754 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:734px;
+}
+#u755 {
+  position:absolute;
+  left:2px;
+  top:359px;
+  width:409px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u756_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:67px;
+}
+#u756 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:67px;
+}
+#u757 {
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:409px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u758_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(46, 120, 175, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u758 {
+  position:absolute;
+  left:147px;
+  top:34px;
+  width:119px;
+  height:20px;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u759 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  word-wrap:break-word;
+}
+#u760_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:879px;
+  height:543px;
+}
+#u760 {
+  position:absolute;
+  left:440px;
+  top:175px;
+  width:878px;
+  height:542px;
+  text-align:left;
+}
+#u761 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:874px;
+  word-wrap:break-word;
+}
+#u762_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:168px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(54, 169, 206, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  color:#FFFFFF;
+}
+#u762 {
+  position:absolute;
+  left:440px;
+  top:139px;
+  width:168px;
+  height:26px;
+  color:#FFFFFF;
+}
+#u763 {
+  position:absolute;
+  left:10px;
+  top:5px;
+  width:148px;
+  word-wrap:break-word;
+}
