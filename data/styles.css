@@ -7,31 +7,10 @@
   text-align:center;
   line-height:normal;
 }
-._形状 {
-}
-.box_1 {
-}
-.heading_1 {
-  font-family:'Arial Negreta', 'Arial';
-  font-weight:700;
-  font-size:32px;
-  text-align:left;
-}
-.shape {
-}
 .box_2 {
-}
-.box_3 {
-}
-.ellipse {
 }
 ._图片 {
   color:#000000;
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Negreta', 'Arial';
@@ -75,84 +54,65 @@
 ._文本段落 {
   text-align:left;
 }
-.paragraph {
+.table_cell {
+}
+.sticky_2 {
   text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+._水平线 {
+}
+._垂直线 {
+}
+._流程形状 {
+}
+._形状 {
+}
+._连接线 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .line {
 }
 .arrow {
 }
-._流程形状 {
-}
-._表格 {
-}
-._单元格 {
-}
-._水平线 {
-}
-._连接线 {
-}
-.sticky_1 {
+.checkbox {
   text-align:left;
 }
-.sticky_2 {
-  text-align:left;
+.html_button {
+  text-align:center;
 }
-.sticky_4 {
-  text-align:left;
-}
-.marker {
-  color:#FFFFFF;
-}
-.flow_shape {
-}
-.tree_node {
-  text-align:left;
+.box_1 {
 }
 .droplist {
   color:#000000;
   text-align:left;
 }
-.list_box {
-  color:#000000;
-  text-align:left;
+.flow_shape {
 }
-.checkbox {
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
-}
-.text_field {
-  color:#000000;
-  text-align:left;
+._表格 {
 }
 .icon {
 }
-.table_cell {
+.marker {
+  color:#FFFFFF;
 }
-.placeholder {
+.sticky_1 {
+  text-align:left;
 }
-.html_button {
-  text-align:center;
+.ellipse {
 }
-.menu_item {
+.primary_button {
+  color:#FFFFFF;
 }
-.image {
-  color:#000000;
-}
-.vertical_line {
-}
-.iconfont {
-  font-family:'iconfont Regular', 'iconfont';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#666666;
-}
-.image1 {
-}
-.text_area {
+._文本框 {
   color:#000000;
   text-align:left;
 }
