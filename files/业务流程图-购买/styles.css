@@ -1,6 +1,6 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(60, 60, 60, 1);
+  background-color:rgba(153, 153, 153, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -1161,7 +1161,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:341px;
+  width:377px;
   height:27px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1178,9 +1178,9 @@
 }
 #u627 {
   position:absolute;
-  left:32px;
+  left:5px;
   top:24px;
-  width:341px;
+  width:377px;
   height:27px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
@@ -1192,7 +1192,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:341px;
+  width:377px;
   white-space:nowrap;
 }
 #u629_div {
